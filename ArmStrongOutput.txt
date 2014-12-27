@@ -1,0 +1,2 @@
+Number 153 is armstrong
+Number 154 is not armstrong
